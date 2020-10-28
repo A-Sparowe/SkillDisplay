@@ -11,4 +11,12 @@ I have only tested and confirmed this working on the QT5.8.0 variant of OverlayP
 If you find any strange bugs, please report to me on here or find me on the ACT FFXIV discord.
 
 ## Preview
-![preview.png](./images/preview.png)
+                                              Updated Preview Coming Soon!
+    
+   * Plan to edit the skin/theme files to provide a darker background and options for adding custom background images.
+   * Also considering implementing a way to show static layouts for Openers and Rotations. These will display above or
+     the current SkillDisplay feed to provide references to which abilities the player should be using. 
+     Since I myself am I new player to FFXIV I would personally benefit from this addition as I'm sure there are others
+     out there who would also benefit from it as well.
+     
+   ![preview.png](./images/preview.png)
