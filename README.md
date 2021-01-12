@@ -1,4 +1,4 @@
-[![Download count](https://img.shields.io/endpoint?url=https%3A%2F%2Fvz32sgcoal.execute-api.us-east-1.amazonaws.com%2FPluginName)](https://github.com/A-Sparowe/P
+[![Download count](https://img.shields.io/endpoint?url=https%3A%2F%2Fvz32sgcoal.execute-api.us-east-1.amazonaws.com%2FPluginName)](https://github.com/Username/PluginRepository)
 
 ## SkillDisplay
 A simple no-frills ACTWebSocket overlay for showing actions pressed in an overlay window.
